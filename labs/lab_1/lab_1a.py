@@ -8,7 +8,7 @@ with your name. Then, save the code, add it to the staging area, and commit it t
 def main():
     print("Hello World!")
 
-    name = "Ismael Shuja"
+    name = "Ismael Amir Shuja"
 
     print(f"{name}, Welcome to the CSS course!")
 
